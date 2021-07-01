@@ -1,0 +1,73 @@
+//ROCK , PAPER SCISSOR IN JAVA
+//Don't forget to comment out before using this lengthy code
+Scanner sc = new Scanner(System.in);
+//        System.out.println("WELCOME TO ROCK PAPER SCISSOR WITH COMPUTER");
+//        System.out.println("1. ROCK");
+//        System.out.println("2. PAPER");
+//        System.out.println("3. SCISSORS");
+//        System.out.println("Enter move");
+//        int input = sc.nextInt();
+//        String userchoice="";
+//        switch(input){
+//            case 1:
+//                 userchoice="ROCK";
+//                 break;
+//            case 2:
+//                 userchoice="PAPER";
+//                 break;
+//            case 3:
+//                userchoice="SCISSORS";
+//                break;
+//            default:
+//                System.out.println("Invalid Entry ");
+//        }
+//        System.out.println("you choose" + userchoice);
+//        String compchoice="";
+//        int randomNum = (int)(Math.random() * 3);
+//        switch(randomNum){
+//
+//            case 0:
+//                System.out.println("The computer chose SCISSOR");
+//                compchoice="SCISSOR";
+//                break;
+//            case 1:
+//                System.out.println("The computer chose ROCK");
+//                compchoice="ROCK";
+//                break;
+//            case 2:
+//                System.out.println("The computer chose PAPER");
+//                compchoice="PAPER";
+//                break;
+//            default:
+//                System.out.println();
+//                break;
+//        }
+//        if(compchoice=="SCISSOR" && userchoice=="ROCK"){
+//            System.out.println("you WON");
+//        }else if(compchoice=="SCISSOR" && userchoice=="PAPER"){
+//            System.out.println(" COMPUTER WON");
+//        }else if(compchoice=="SCISSOR"&& userchoice=="SCISSOR"){
+//            System.out.println("TIE!!");
+//        }else if(compchoice=="PAPER"&& userchoice=="PAPER"){
+//            System.out.println("TIE");
+//        }else if(compchoice=="PAPER" && userchoice=="SCISSOR"){
+//            System.out.println("YOU WON");
+//        }else if(compchoice=="PAPER"&& userchoice=="ROCK"){
+//            System.out.println("COMPUTER WON");
+//
+//        }else if(compchoice=="ROCK" && userchoice=="ROCK"){
+//            System.out.println("TIE");
+//
+//
+//        }else if(compchoice=="ROCK" && userchoice=="PAPER"){
+//            System.out.println("YOU WIN");
+//        }else{
+//            System.out.println("COMPUTER WINS");
+//        }
+//
+//
+//        }
+//
+//
+//
+//        }
