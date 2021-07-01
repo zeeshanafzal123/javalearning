@@ -1,0 +1,46 @@
+//**********************************CALCULATOR*********************************8**
+//Don't forget to comment out before use
+//        System.out.println("WELCOME TO JAVA CALCULATOR");
+//        Scanner scan = new Scanner(System.in);
+//        System.out.println("Enter number alpha:");
+//        int a = scan.nextInt();
+//        System.out.println("Enter number beta:");
+//        int b = scan.nextInt();
+//        System.out.println("1.Addition");
+//        System.out.println("2.Subtraction");
+//        System.out.println("3.Multiplication");
+//        System.out.println("4.Division");
+//        System.out.println("What would you like to do ?");
+//        int c = scan.nextInt();
+//        switch(c){
+//
+//            case 1:
+//                int num= a+b;
+//                System.out.println(num);
+//                break;
+//            case 2:
+//                if (a>b){
+//                    int dum=a-b;
+//
+//                    System.out.println(dum);
+//                }else{
+//                    int rum=b-a;
+//                    System.out.println(rum);
+//                }
+//                break;
+//            case 3:
+//                int mult = a*b;
+//                System.out.println(mult);
+//                break;
+//            case 4:
+//                if(a>b){
+//                    int dim = a/b;
+//                    System.out.println(dim);
+//                }else{
+//                    int kim = b/a;
+//                    System.out.println(kim);
+//                }
+//                break;
+//            default :
+//                System.out.println("Invalid entry");
+//        }
