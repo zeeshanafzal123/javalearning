@@ -1,0 +1,7 @@
+Scanner sc=  new Scanner(System.in); <-------------------------STAR PRINTING QUESTION
+//        System.out.println("Enter the number of lines :");
+//        int a = sc.nextInt();
+//        while (a>0){
+//            String str="*";
+//            System.out.println( str.repeat(a) );-------------------> Repeat a string multiple times
+//            a=a-1;
